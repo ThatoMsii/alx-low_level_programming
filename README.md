@@ -1,1 +1,1 @@
-0x00. C - Hello, World
+The beginning of C programming
