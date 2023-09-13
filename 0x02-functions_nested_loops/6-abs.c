@@ -4,8 +4,8 @@
  *_abs - Determines the absolute value
  *of an integer.
  *
- *@i: input number as an integer.
- *Return: absolute value
+ *@i: function parameter.
+ *Return: i or -i
  */
 int _abs(int i)
 {
