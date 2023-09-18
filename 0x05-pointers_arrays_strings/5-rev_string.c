@@ -3,7 +3,7 @@
 /**
  * rev_string - Function that reverses a string
  * @s: input string
- * 
+ *
  * Return: string in reverse
  */
 
