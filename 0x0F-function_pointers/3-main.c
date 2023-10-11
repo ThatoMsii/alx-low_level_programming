@@ -1,7 +1,7 @@
 #include "function_pointers.h"
 #include <stdlib.h>
 #include <stdio.h>
-#include "3-cal.h"
+#include "3-calc.h"
 
 /**
  * main - prints the result of simple operations
